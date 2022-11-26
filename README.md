@@ -1,3 +1,3 @@
-#Professiona-Training-1
-# Simple-Bank-Management-System-Project
+#Professiona Training 1
+# Simple Bank Management System Project
 project source code
